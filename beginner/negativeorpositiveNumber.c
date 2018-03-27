@@ -9,7 +9,7 @@ int main(void) {
 	else if(i==0){
 		printf("The Number is Neither Negative nor Positive");
 	}
-	else if(i>100000){
+	else if(i>10000){
 		printf("The Number is Greater than 100000");
 	}
 	else{
