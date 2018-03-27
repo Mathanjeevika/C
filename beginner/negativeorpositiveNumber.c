@@ -2,7 +2,7 @@
 
 int main(void) {
 	// your code goes here
-	long int i=200000;
+	long int i=100000;
 	if(i>1 && i<100000){
 		printf("The Given Value is Positive");
 	}
